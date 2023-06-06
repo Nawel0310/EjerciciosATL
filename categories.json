@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Yu-Gi-Oh!",
+    "description": "Preguntas relacionadas con el anime de Yu-Gi-Oh!"
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Dragon Ball",
+    "description": "Preguntas relacionadas con el anime de Dragon Ball"
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Marvel",
+    "description": "Preguntas relacionadas con Marvel."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "DC",
+    "description": "Preguntas relacionadas con DC"
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Ben 10",
+    "description": "Preguntas relacionadas con Ben 10."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Digimon",
+    "description": "Preguntas relacionadas con Digimon."
   }
 ]
